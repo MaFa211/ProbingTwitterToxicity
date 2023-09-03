@@ -1,0 +1,4 @@
+,effect_size,p_value,test_stat
+Democrat Republican,-0.3943,0.7076,-0.1055
+Democrat Neutral,0.7462,0.1612,0.1372
+Republican Neutral,0.9992,0.09,0.2427
